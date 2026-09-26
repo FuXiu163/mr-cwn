@@ -6,4 +6,4 @@
 
 下次想访问这个网站的时候，可以在地址栏输入以下链接：
 
-######   ·  link:[**https://fuxiu163.github.io/rw99/FuXiu's%20HTML.html**](https://fuxiu163.github.io/rw99/FuXiu's%20HTML.html)可点击此链接直接跳转至主页面
+######   ·  link:[**https://fuxiu163.github.io/mr-cwn/FuXiu's%20HTML.html**](https://fuxiu163.github.io/mr-cwn/FuXiu's%20HTML.html)可点击此链接直接跳转至主页面
